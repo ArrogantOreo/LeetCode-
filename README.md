@@ -11,13 +11,14 @@ Welcome to my LeetCode workspace!
 
 通过“费曼学习法”进行复盘，将复杂的解题思路总结为易懂的技术博客。
 
-| 题号 |                题目 (Problem)                 | 难度 (Difficulty) | 语言 (Lang) | 核心标签 (Tags) | 复盘链接 (CSDN/Blog) |
-| ---- | :-------------------------------------------: | ----------------- | ----------- | :-------------: | -------------------- |
-| 1502 | Can Make Arithmetic Progression From Sequence | 🟢 Easy            | C++         |   数组 / 排序   | 待补充博客链接       |
-| 0896 |                Monotonic Array                | 🟢 Easy            | C++         |      数组       | 待补充博客链接       |
-| 13   |               Roman to Integer                | 🟢 Easy            | C++         |     字符串      | 待补充博客链接       |
-| 58   |              Length of Last Word              | 🟢 Easy            | C++         |     字符串      | 待补充博客链接       |
-| 709  |                 To Lower Case                 | 🟢 Easy            | C++         |     字符串      | 待补充博客链接       |
+| 题号 |                题目 (Problem)                 | 难度 (Difficulty) | 语言 (Lang) | 核心标签 (Tags) | 复盘(Think)                                         |
+| ---- | :-------------------------------------------: | ----------------- | ----------- | :-------------: | --------------------------------------------------- |
+| 1502 | Can Make Arithmetic Progression From Sequence | 🟢 Easy            | C++         |   数组 / 排序   | No                                                  |
+| 0896 |                Monotonic Array                | 🟢 Easy            | C++         |      数组       | No                                                  |
+| 13   |               Roman to Integer                | 🟢 Easy            | C++         |     字符串      | No                                                  |
+| 58   |              Length of Last Word              | 🟢 Easy            | C++         |     字符串      | No                                                  |
+| 709  |                 To Lower Case                 | 🟢 Easy            | C++         |     字符串      | No                                                  |
+| 682  |                 Baseball Game                 | 🟢 Easy            | C++         | 栈、数组、模拟  | for(auto& p:op){ }循环遍历器；Vector 创建动态数组； |
 
 ## 💡 个人复盘策略
 1. **先思考再动手：** 绝不盲目背题，理清边界条件与逻辑链路。
