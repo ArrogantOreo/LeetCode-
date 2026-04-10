@@ -9,7 +9,7 @@ Welcome to my LeetCode workspace!
 
 ## 📝 刷题进度与复盘 (Progress & Notes)
 
-通过“费曼学习法”进行复盘，将复杂的解题思路总结为易懂的技术博客。
+通过复盘，将复杂的解题思路总结为易懂的技术博客。
 
 | 题号 |                题目 (Problem)                 | 难度 (Difficulty) | 语言 (Lang) |     核心标签 (Tags)      | 复盘(Think)                                                  |
 | ---- | :-------------------------------------------: | ----------------- | ----------- | :----------------------: | ------------------------------------------------------------ |
@@ -23,6 +23,7 @@ Welcome to my LeetCode workspace!
 | 1275 |       Find Winner on a Tic Tac Toe Game       | 🟢 Easy            | C++         | 数组、哈希表、矩阵、模拟 | 存在两个对抗的单位时，使用1和-1抵消；最后结果会涉及到abs()求绝对值来判定。 |
 | 1672 |            Richest Customer Wealth            | 🟢 Easy            | C++         |        数组、矩阵        | vector长度用.size()，创建二维数组：vector<vector<int>>       |
 | 1572 |              Matrix Diagonal Sum              | 🟢 Easy            | C++         |        数组、矩阵        | 主对角线：i==j；副对角线：i+j==len（矩阵宽度）               |
+| 1523 |    Count Odd Numbers in an Interval Range     | 🟢 Easy            | C++         |           数学           | 奇数偶数判断<br />奇：number & 1 = 1 二进制最后一位是1 <br />偶：number & 0 = 0 二进制最后一位是0 |
 
 ## 💡 个人复盘策略
 1. **先思考再动手：** 绝不盲目背题，理清边界条件与逻辑链路。
