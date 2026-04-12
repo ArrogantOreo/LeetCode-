@@ -25,6 +25,7 @@ Welcome to my LeetCode workspace!
 | 1572 |                   Matrix Diagonal Sum                   | 🟢 Easy            | C++         |        数组、矩阵        | 主对角线：i==j；副对角线：i+j==len（矩阵宽度）               |
 | 1523 |         Count Odd Numbers in an Interval Range          | 🟢 Easy            | C++         |           数学           | 奇数偶数判断<br />奇：number & 1 = 1 二进制最后一位是1 <br />偶：number & 0 = 0 二进制最后一位是0 |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | 🟢 Easy            | C++         |        数组、排序        | 双指针存储max,min<br />最后减去多余的max,min。               |
+| 860  |                     Lemonade Change                     | 🟢 Easy            | C++         |        贪心、数组        | 保证每一步找零都是在消耗最大面值的钱币组合，防止最小单位的钱币不够用。 |
 
 ## 💡 个人复盘策略
 1. **先思考再动手：** 绝不盲目背题，理清边界条件与逻辑链路。
