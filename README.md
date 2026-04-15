@@ -27,6 +27,7 @@ Welcome to my LeetCode workspace!
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | 🟢 Easy            | C++         |        数组、排序        | 双指针存储max,min<br />最后减去多余的max,min。               |
 | 860  |                     Lemonade Change                     | 🟢 Easy            | C++         |        贪心、数组        | 保证每一步找零都是在消耗最大面值的钱币组合，防止最小单位的钱币不够用。 |
 | 976  |               Largest Perimeter Triangle                | 🟢 Easy            | C++         |     贪心、数组、排序     | 在有大小关系的数组里找最大组合值，先排序(从大到小)，再从头到尾查找，最大值都在前面(满足其他条件时)，可以让时间复杂度最低 |
+| 1232 |             Check If It Is a Straight Line              | 🟢Easy             | C++         |   几何、二维数组、数学   | 用斜率判断所有点能在一条直线上                               |
 
 ## 💡 个人复盘策略
 1. **先思考再动手：** 绝不盲目背题，理清边界条件与逻辑链路。
