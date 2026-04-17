@@ -29,6 +29,7 @@ Welcome to my LeetCode workspace!
 | 976  |               Largest Perimeter Triangle                | 🟢 Easy            | C++         |     贪心、数组、排序     | 在有大小关系的数组里找最大组合值，先排序(从大到小)，再从头到尾查找，最大值都在前面(满足其他条件时)，可以让时间复杂度最低 |
 | 1232 |             Check If It Is a Straight Line              | 🟢Easy             | C++         |   几何、二维数组、数学   | 用斜率判断所有点能在一条直线上                               |
 | 67   |                       Add Binary                        | 🟢Easy             | C++         |    数学、字符串、模拟    | -‘0’转数字、+‘0’转字符                                       |
+| 21   |                 Merge Two Sorted Lists                  | 🟢Easy             | C++         |        递归、链表        | 创建头节点避免空指针和每次访问时需要判断当前节点是不是头节点 |
 
 ## 💡 个人复盘策略
 1. **先思考再动手：** 绝不盲目背题，理清边界条件与逻辑链路。
