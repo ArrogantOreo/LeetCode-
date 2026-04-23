@@ -30,7 +30,8 @@ Welcome to my LeetCode workspace!
 | 1232 |             Check If It Is a Straight Line              | 🟢Easy             | C++         |   几何、二维数组、数学   | 用斜率判断所有点能在一条直线上                               |
 | 67   |                       Add Binary                        | 🟢Easy             | C++         |    数学、字符串、模拟    | -‘0’转数字、+‘0’转字符                                       |
 | 21   |                 Merge Two Sorted Lists                  | 🟢Easy             | C++         |        递归、链表        | 创建头节点避免空指针和每次访问时需要判断当前节点是不是头节点 |
-| 206. |                        反转链表                         | 🟢Easy             | C++         |        递归、链表        | ListNode* curr=head;代码指针curr、head同时指向一个地址。     |
+| 206  |                        反转链表                         | 🟢Easy             | C++         |        递归、链表        | ListNode* curr=head;代码指针curr、head同时指向一个地址。     |
+| 2    |                        两数相加                         | 中等              | C++         |     递归、链表、数学     | 进位考虑add=sum/10作为下一次计算的存储                       |
 
 ## 💡 个人复盘策略
 1. **先思考再动手：** 绝不盲目背题，理清边界条件与逻辑链路。
